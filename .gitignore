@@ -1,0 +1,6 @@
+
+*.exe
+*.v2
+microservices-server-app/.vs/microservices-server-app/v16/.suo
+*.cache
+server-app/.vs/server-app/v16/.suo

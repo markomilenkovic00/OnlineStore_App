@@ -1,0 +1,76 @@
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\appsettings.Development.json
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\appsettings.json
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ocelot.json
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ApiGateway.exe
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ApiGateway.deps.json
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ApiGateway.runtimeconfig.json
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ApiGateway.runtimeconfig.dev.json
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ApiGateway.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ApiGateway.pdb
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\FluentValidation.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Ocelot.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Serilog.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.csproj.AssemblyReference.cache
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.AssemblyInfoInputs.cache
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.AssemblyInfo.cs
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.csproj.CoreCompileInputs.cache
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\staticwebassets\ApiGateway.StaticWebAssets.Manifest.cache
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\scopedcss\bundle\ApiGateway.styles.css
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.RazorTargetAssemblyInfo.cache
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.csproj.CopyComplete
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ref\ApiGateway.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.pdb
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.genruntimeconfig.cache
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ref\ApiGateway.dll
+D:\Faks\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\staticwebassets\ApiGateway.StaticWebAssets.xml
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\appsettings.Development.json
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\appsettings.json
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ocelot.json
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ApiGateway.exe
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ApiGateway.deps.json
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ApiGateway.runtimeconfig.json
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ApiGateway.runtimeconfig.dev.json
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ApiGateway.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ref\ApiGateway.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\ApiGateway.pdb
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\FluentValidation.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Ocelot.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Serilog.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.csproj.AssemblyReference.cache
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.AssemblyInfoInputs.cache
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.AssemblyInfo.cs
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.csproj.CoreCompileInputs.cache
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\staticwebassets\ApiGateway.StaticWebAssets.Manifest.cache
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\staticwebassets\ApiGateway.StaticWebAssets.xml
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\scopedcss\bundle\ApiGateway.styles.css
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.RazorTargetAssemblyInfo.cache
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.csproj.CopyComplete
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ref\ApiGateway.dll
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.pdb
+D:\Faks\4.godina polozeno\Web Programiranje 2\Projekat\Web2Projekat\microservices-server-app\ApiGateway\obj\Debug\net5.0\ApiGateway.genruntimeconfig.cache

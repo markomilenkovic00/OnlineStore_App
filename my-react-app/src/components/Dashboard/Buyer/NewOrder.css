@@ -1,0 +1,210 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap");
+
+.neworder-maincontainer{
+    display: flex;
+    flex-direction: column;
+    font-family: "Nunito", 'sans-serif';
+}
+
+.neworder-header{
+    display: flex;
+    flex-direction: row;
+    gap:30px;
+    margin-top: 1rem;
+    justify-content: center;
+}
+
+.neworder-button{
+    border:0;
+    align-items: center;
+    justify-content: center;
+    background-color: #5f6770;
+    color:#fbc85c;
+    border-radius: .4rem;
+    padding: .3rem;
+    width: 10%;
+    font-weight: 600;
+}
+
+.neworder-button:hover{
+    background-color: #fbc85c;
+    color:#5f6770;
+}
+
+.container_neworder{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  
+.card_neworder {
+    margin: 2rem;
+    background-color: #5f6770;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+    border-radius: 7%;
+    box-shadow: 0px -10px 20px rgba(0, 0, 0, 0.1),
+            0px 59px 36px rgba(0, 0, 0, 0.03),
+            0px 26px 26px rgba(0, 0, 0, 0.05),
+            0px 7px 15px rgba(0, 0, 0, 0.07),
+            0px 0px 0px rgba(0, 0, 0, 0.07);
+    max-width: 25%;
+  }
+  
+  .card_neworder .picture_neworder {
+    display: inline-block;
+    height: 130px;
+    width: 130px;
+    margin-top:2.5rem;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+    margin-bottom: 1.5rem;
+    z-index: 1;
+    position: relative;
+  }
+  
+  .card_neworder .picture_neworder::before {
+    content: "";
+    width: 100%;
+    height: 0;
+    border-radius: 50%;
+    background-color: #a68fe8;
+    position: absolute;
+    bottom: 135%;
+    right: 0;
+    left: 0;
+    opacity: 0.9;
+    transform: scale(3);
+    transition: all 0.3s linear 0s;
+  }
+  
+  .card_neworder:hover .picture_neworder::before {
+    height: 100%;
+  }
+  
+  .card_neworder .picture_neworder::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: #a68fe8;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+  
+  .card_neworder .picture_neworder img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    transform: scale(1);
+    transition: all 0.9s ease 0s;
+    object-fit: cover;
+  }
+  
+  .card_neworder:hover .picture_neworder img {
+    box-shadow: 0 0 0 14px #fbc85c;
+    transform: scale(0.7);
+  }
+
+  .card_neworder .user-dataneworder{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    background-color: #fbc85c;
+    border-radius: .5rem;
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+    padding-left: .7rem;
+    padding-right: .7rem;
+    height: 18rem;
+    justify-content: space-between;
+  }
+  
+  .card_neworder .social_verificationneworder {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: #a68fe8;
+    position: absolute;
+    bottom: -100px;
+    left: 0;
+    transition: all 0.5s ease 0s;
+  }
+  
+  .card_neworder:hover .social_verificationneworder {
+    bottom: 0;
+  }
+
+
+  .card_neworder .social_verificationneworder .buttonVerificationneworder{
+    width: 100%;
+    border:0;
+    background-color: #a68fe8;
+    color:#fbc85c;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+  }
+
+  .card_neworder .social_verificationneworder .buttonVerificationneworder:hover{
+    background-color: #fbc85c;
+    color:#a68fe8;
+  }
+  
+  .card_neworder .userdatarowneworder {
+    font-size: 0.9rem;
+    color: #5f6770;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    font-weight: bold;
+    justify-content: space-around;
+  }
+
+    
+  .card_neworder .maintitleneworder {
+    font-size: 1.5rem;
+    color: #fbc85c;
+    text-transform: capitalize;
+    font-weight: bold;
+  }
+
+  .userdatarowneworder .neworder-price{
+    font-size: x-large;
+  }
+
+  .button-showsellerinfo{
+    border:0;
+    background-color: #5f6770;
+    color: #fbc85c;
+    font-weight: bold;
+    width: 30%;
+  }
+
+  .button-showsellerinfo:hover{
+    background-color: #a68fe8;
+    color: #313539;
+  }
+
+  .seller-info-toggle{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: baseline;
+    font-size: 0.9rem;
+    padding-right: 1.8rem;
+    font-weight: bold;
+    color:#5f6770;
+  }
+

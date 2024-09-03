@@ -1,0 +1,52 @@
+﻿2023-08-28 19:31:20.690 +02:00 [INF] Request received: POST /api/auth/login
+2023-08-28 19:31:22.179 +02:00 [INF] Response sent: 400
+2023-08-28 19:31:37.242 +02:00 [INF] Request received: POST /api/auth/login
+2023-08-28 19:31:37.538 +02:00 [INF] Response sent: 200
+2023-08-28 19:31:37.592 +02:00 [INF] Request received: GET /api/userprofile/getprofile/4
+2023-08-28 19:31:37.745 +02:00 [INF] Response sent: 200
+2023-08-28 19:31:37.748 +02:00 [INF] Request received: GET /api/userprofile/getprofile/4
+2023-08-28 19:31:37.771 +02:00 [INF] Response sent: 200
+2023-08-28 19:31:46.359 +02:00 [INF] Request received: GET /api/admin/getsellers
+2023-08-28 19:31:46.454 +02:00 [INF] Response sent: 200
+2023-08-28 19:31:46.455 +02:00 [INF] Request received: GET /api/admin/getsellers
+2023-08-28 19:31:46.479 +02:00 [INF] Response sent: 200
+2023-08-28 19:32:07.209 +02:00 [INF] Request received: GET /api/admin/getordershistory
+2023-08-28 19:32:09.360 +02:00 [INF] Request received: GET /api/admin/getordershistory
+2023-08-28 19:32:09.361 +02:00 [INF] Response sent: 200
+2023-08-28 19:32:09.779 +02:00 [INF] Response sent: 200
+2023-08-28 19:32:26.954 +02:00 [INF] Request received: GET /api/userprofile/getprofile/4
+2023-08-28 19:32:26.983 +02:00 [INF] Response sent: 200
+2023-08-28 19:32:26.986 +02:00 [INF] Request received: GET /api/userprofile/getprofile/4
+2023-08-28 19:32:27.012 +02:00 [INF] Response sent: 200
+2023-08-28 19:32:33.563 +02:00 [INF] Request received: POST /api/auth/login
+2023-08-28 19:32:33.666 +02:00 [INF] Response sent: 200
+2023-08-28 19:32:33.721 +02:00 [INF] Request received: GET /api/userprofile/getprofile/5
+2023-08-28 19:32:33.739 +02:00 [INF] Response sent: 200
+2023-08-28 19:32:33.743 +02:00 [INF] Request received: GET /api/userprofile/getprofile/5
+2023-08-28 19:32:33.763 +02:00 [INF] Response sent: 200
+2023-08-28 19:32:34.892 +02:00 [INF] Request received: GET /api/buyer/getproducts
+2023-08-28 19:32:35.063 +02:00 [INF] Response sent: 200
+2023-08-28 19:32:35.064 +02:00 [INF] Request received: GET /api/buyer/getproducts
+2023-08-28 19:32:35.181 +02:00 [INF] Response sent: 200
+2023-08-28 19:33:57.091 +02:00 [INF] Request received: GET /api/buyer/getmyorders/5
+2023-08-28 19:33:57.495 +02:00 [INF] Response sent: 200
+2023-08-28 19:33:57.497 +02:00 [INF] Request received: GET /api/buyer/getmyorders/5
+2023-08-28 19:33:57.815 +02:00 [INF] Response sent: 200
+2023-08-28 19:34:08.693 +02:00 [INF] Request received: POST /api/auth/login
+2023-08-28 19:34:08.817 +02:00 [INF] Response sent: 200
+2023-08-28 19:34:08.844 +02:00 [INF] Request received: GET /api/userprofile/getprofile/8
+2023-08-28 19:34:08.865 +02:00 [INF] Response sent: 200
+2023-08-28 19:34:08.866 +02:00 [INF] Request received: GET /api/userprofile/getprofile/8
+2023-08-28 19:34:08.891 +02:00 [INF] Response sent: 200
+2023-08-28 19:34:09.817 +02:00 [INF] Request received: GET /api/seller/getproducts/8
+2023-08-28 19:34:09.860 +02:00 [INF] Response sent: 200
+2023-08-28 19:34:09.861 +02:00 [INF] Request received: GET /api/seller/getproducts/8
+2023-08-28 19:34:09.881 +02:00 [INF] Response sent: 200
+2023-08-28 19:34:14.389 +02:00 [INF] Request received: GET /api/seller/getproducts/8
+2023-08-28 19:34:14.415 +02:00 [INF] Response sent: 200
+2023-08-28 19:34:14.416 +02:00 [INF] Request received: GET /api/seller/getproducts/8
+2023-08-28 19:34:14.435 +02:00 [INF] Response sent: 200
+2023-08-28 19:34:32.742 +02:00 [INF] Request received: GET /api/seller/getordershistory/8
+2023-08-28 19:34:32.993 +02:00 [INF] Response sent: 200
+2023-08-28 19:34:32.994 +02:00 [INF] Request received: GET /api/seller/getordershistory/8
+2023-08-28 19:34:33.210 +02:00 [INF] Response sent: 200

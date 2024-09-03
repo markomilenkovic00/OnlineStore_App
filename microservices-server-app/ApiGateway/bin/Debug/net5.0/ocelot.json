@@ -1,0 +1,240 @@
+{
+  "Routes": [
+    //AUTH CONTROLLER
+    {
+      "UpstreamPathTemplate": "/api/auth/register",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 2554
+        }
+      ],
+      "DownstreamPathTemplate": "/api/auth/register"
+    },
+    {
+      "UpstreamPathTemplate": "/api/auth/login",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 2554
+        }
+      ],
+      "DownstreamPathTemplate": "/api/auth/login"
+    },
+    {
+      "UpstreamPathTemplate": "/api/auth/googleregister",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 2554
+        }
+      ],
+      "DownstreamPathTemplate": "/api/auth/googleregister"
+    },
+    {
+      "UpstreamPathTemplate": "/api/auth/googlelogin",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 2554
+        }
+      ],
+      "DownstreamPathTemplate": "/api/auth/googlelogin"
+    },
+    //USERPROFILE CONTROLLER
+    {
+      "UpstreamPathTemplate": "/api/userprofile/getprofile/{id}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 2554
+        }
+      ],
+      "DownstreamPathTemplate": "/api/userprofile/getprofile/{id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/userprofile/updateprofile",
+      "UpstreamHttpMethod": [ "PUT" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 2554
+        }
+      ],
+      "DownstreamPathTemplate": "/api/userprofile/updateprofile"
+    },
+    //ADMIN CONTROLLER
+    {
+      "UpstreamPathTemplate": "/api/admin/getsellers",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 2554
+        }
+      ],
+      "DownstreamPathTemplate": "/api/admin/getsellers"
+    },
+    {
+      "UpstreamPathTemplate": "/api/admin/{id}/{verified}",
+      "UpstreamHttpMethod": [ "PUT" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 2554
+        }
+      ],
+      "DownstreamPathTemplate": "/api/admin/{id}/{verified}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/admin/getordershistory",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10710
+        }
+      ],
+      "DownstreamPathTemplate": "/api/admin/getordershistory"
+    },
+    //BUYER CONTROLLER
+    {
+      "UpstreamPathTemplate": "/api/buyer/getproducts",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10710
+        }
+      ],
+      "DownstreamPathTemplate": "/api/buyer/getproducts"
+    },
+    {
+      "UpstreamPathTemplate": "/api/buyer/createorder",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10710
+        }
+      ],
+      "DownstreamPathTemplate": "/api/buyer/createorder"
+    },
+    {
+      "UpstreamPathTemplate": "/api/buyer/getmyorders/{userId}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10710
+        }
+      ],
+      "DownstreamPathTemplate": "/api/buyer/getmyorders/{userId}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/buyer/cancelorder/{orderId}/{buyerId}",
+      "UpstreamHttpMethod": [ "PUT" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10710
+        }
+      ],
+      "DownstreamPathTemplate": "/api/buyer/cancelorder/{orderId}/{buyerId}"
+    },
+    //SELLER CONTROLLER
+    {
+      "UpstreamPathTemplate": "/api/seller/getproducts/{id}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10710
+        }
+      ],
+      "DownstreamPathTemplate": "/api/seller/getproducts/{id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/seller/addproduct",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10710
+        }
+      ],
+      "DownstreamPathTemplate": "/api/seller/addproduct"
+    },
+    {
+      "UpstreamPathTemplate": "/api/seller/updateproduct",
+      "UpstreamHttpMethod": [ "PUT" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10710
+        }
+      ],
+      "DownstreamPathTemplate": "/api/seller/updateproduct"
+    },
+    {
+      "UpstreamPathTemplate": "/api/seller/deleteproduct/{id}",
+      "UpstreamHttpMethod": [ "DELETE" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10710
+        }
+      ],
+      "DownstreamPathTemplate": "/api/seller/deleteproduct/{id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/seller/getneworders/{id}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10710
+        }
+      ],
+      "DownstreamPathTemplate": "/api/seller/getneworders/{id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/seller/getordershistory/{id}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10710
+        }
+      ],
+      "DownstreamPathTemplate": "/api/seller/getordershistory/{id}"
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:36670"
+  }
+}

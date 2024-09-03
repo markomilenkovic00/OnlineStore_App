@@ -1,0 +1,260 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap");
+
+.form_container_register {
+    width: 60%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    padding: 40px 40px 20px 40px;
+    background-color: #ffffff;
+    box-shadow: 0px 106px 42px rgba(0, 0, 0, 0.01),
+        0px 59px 36px rgba(0, 0, 0, 0.05), 0px 26px 26px rgba(0, 0, 0, 0.09),
+        0px 7px 15px rgba(0, 0, 0, 0.1), 0px 0px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 11px;
+    font-family: "Nunito", 'sans-serif';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.logo_container_register {
+    box-sizing: border-box;
+    width: 90px;
+    height: 90px;
+}
+
+.title_container_register {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.title_register {
+    margin: 0;
+    font-size: 1.45rem;
+    font-weight: 700;
+    color: #212121;
+}
+
+.subtitle_register {
+    font-size: 0.725rem;
+    max-width: 80%;
+    text-align: center;
+    line-height: 1.1rem;
+    color: #8B8E98
+}
+
+.input_container_register {
+    width: 100%;
+    height: fit-content;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.input_container_register_picture{
+    width: 100%;
+    height: fit-content;
+    position: relative;
+    display: flex;
+    gap: 5px;
+    border-radius: 7px;
+    outline: none;
+    border: 1px solid #c1c1c1;
+    transition: all 0.3s cubic-bezier(0.15, 0.83, 0.66, 1);
+    padding-top: 3%;
+    padding-left: 4%;
+    padding-bottom: 4%;
+}
+
+.input_container_register_picture_wrong{
+    width: 100%;
+    height: fit-content;
+    position: relative;
+    display: flex;
+    gap: 5px;
+    border-radius: 7px;
+    outline: none;
+    border: 2px solid red;
+    transition: all 0.3s cubic-bezier(0.15, 0.83, 0.66, 1);
+    padding-top: 3%;
+    padding-left: 4%;
+    padding-bottom: 4%;
+}
+
+input[name="registerpicture"]{
+    display: none;
+}
+
+.custom_button_picture_upload{
+    padding: 6px 12px;
+    text-align: center;
+    cursor: pointer;
+    width: 60%;
+    height: fit-content;
+    background: #f7c45b;
+    border-radius: 7px;
+    outline: none;
+    color: #5e6771;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+.custom_button_picture_upload:hover{
+    color:#f7c45b;
+    background: #5e6771;
+}
+
+.pictureoption{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    height: fit-content;
+    margin:auto;
+}
+
+.spannote{
+    width: auto;
+    font-size: small;
+    margin: 0 auto;
+}
+
+.input_row_register{
+    display: flex;
+    gap:15px;
+    width: 100%;
+}
+
+.lastrow_container{
+    display: flex;
+    gap:15px;
+    width: 100%;
+}
+
+.input_lastrowpt1_register{
+    flex:1;
+    width: 50%;
+}
+
+.input_lastrowpt2_register{
+    flex:1;
+    width: 50%;
+}
+
+
+@media screen and (max-width: 1220px) {
+    .input_row_register {
+      flex-direction: column;
+    }
+  }
+
+.icon_register {
+    width: 20px;
+    position: absolute;
+    z-index: 99;
+    left: 12px;
+    bottom: 9px;
+}
+
+.input_label_register {
+    font-size: 0.75rem;
+    color: #5e6066;
+    font-weight: 600;
+}
+
+.input_field_register {
+    width: auto;
+    height: 40px;
+    padding: 0 0 0 40px;
+    border-radius: 7px;
+    outline: none;
+    border: 1px solid #c1c1c1;
+    transition: all 0.3s cubic-bezier(0.15, 0.83, 0.66, 1);
+}
+
+.input_field_register:focus {
+    border: 1px solid transparent;
+    box-shadow: 0px 0px 0px 2px #5e6771;
+    background-color: transparent;
+}
+
+.input_field_wrong_register{
+    width: auto;
+    height: 40px;
+    padding: 0 0 0 40px;
+    border-radius: 7px;
+    outline: none;
+    border: 1px solid red;
+    transition: all 0.3s cubic-bezier(0.15, 0.83, 0.66, 1);
+}
+
+.input_field_wrong_register:focus{
+    border: 1px solid transparent;
+    box-shadow: 0px 0px 0px 2px #e11d1d;
+    background-color: transparent;
+}
+
+.input_field_wrong_register::placeholder{
+    color:red;
+}
+
+.sign-in_btn_register {
+    width: 100%;
+    height: 40px;
+    border: 0;
+    background: #f7c45b;
+    border-radius: 7px;
+    outline: none;
+    color: #5e6771;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.sign-in_btn_register:hover{
+    background: #5e6771;
+    color:#f7c45b;
+}
+
+.separator_register {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    color: #343639;
+}
+
+.separator_register .line_register {
+    display: block;
+    width: 100%;
+    height: 1px;
+    border: 0;
+    background-color: #5e6771;
+}
+
+.note_register {
+    font-size: 0.75rem;
+    color: #5f626a;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.note_register a{
+    text-decoration: underline;
+    color:#f7c45b;
+
+}
+
+.note_register a:hover{
+    color:#5e6771;
+}
+

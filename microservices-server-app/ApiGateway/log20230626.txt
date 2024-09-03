@@ -1,0 +1,18 @@
+﻿2023-06-26 16:16:10.939 +02:00 [INF] Request received: POST /api/auth/login
+2023-06-26 16:16:12.530 +02:00 [INF] Response sent: 200
+2023-06-26 16:16:12.555 +02:00 [INF] Request received: GET /api/userprofile/getprofile/4
+2023-06-26 16:16:12.731 +02:00 [INF] Response sent: 200
+2023-06-26 16:16:12.733 +02:00 [INF] Request received: GET /api/userprofile/getprofile/4
+2023-06-26 16:16:12.764 +02:00 [INF] Response sent: 200
+2023-06-26 16:16:18.633 +02:00 [INF] Request received: GET /api/admin/getsellers
+2023-06-26 16:16:18.722 +02:00 [INF] Response sent: 200
+2023-06-26 16:16:18.724 +02:00 [INF] Request received: GET /api/admin/getsellers
+2023-06-26 16:16:18.748 +02:00 [INF] Response sent: 200
+2023-06-26 16:16:20.514 +02:00 [INF] Request received: GET /api/admin/getordershistory
+2023-06-26 16:16:22.361 +02:00 [INF] Response sent: 200
+2023-06-26 16:16:22.363 +02:00 [INF] Request received: GET /api/admin/getordershistory
+2023-06-26 16:16:22.591 +02:00 [INF] Response sent: 200
+2023-06-26 16:16:25.594 +02:00 [INF] Request received: GET /api/userprofile/getprofile/4
+2023-06-26 16:16:25.639 +02:00 [INF] Response sent: 200
+2023-06-26 16:16:25.646 +02:00 [INF] Request received: GET /api/userprofile/getprofile/4
+2023-06-26 16:16:25.673 +02:00 [INF] Response sent: 200

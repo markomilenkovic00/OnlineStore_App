@@ -1,0 +1,239 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap");
+
+.orderdetails-container{
+    margin: 0 auto;
+    max-width: 80%;
+    margin-top:7rem;
+    margin-bottom: 4rem;
+    box-shadow: 0px -10px 20px rgba(0, 0, 0, 0.2),
+            0px 59px 36px rgba(0, 0, 0, 0.05),
+            0px 26px 26px rgba(0, 0, 0, 0.09),
+            0px 7px 15px rgba(0, 0, 0, 0.1),
+            0px 0px 0px rgba(0, 0, 0, 0.1);
+    border:.2rem solid #5f6770;
+    border-radius: .3rem;
+    font-family: 'Nunito', 'sans-serif';
+}
+
+.orderheader-container{
+    width: 95%;
+    margin:0 auto;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.orderdetails-container .orderheader-container .exitButton{
+    border:0;
+    background-color: #fbc85c;
+    border-radius: 1rem;
+    height: fit-content;
+    width: fit-content;
+    margin: 0 auto;
+    margin-right: 0;
+}
+
+.orderdetails-container .orderheader-container .exitButton:hover{
+    background-color: #5f6770;
+}
+
+.orderdetails-container .orderheader-container .exitButton:hover .ExitIcon{
+    fill:#fbc85c;
+}
+
+.buyerinfo{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    width: 40%;
+}
+
+.buyerinfo-row{
+    color:black;
+    font-weight: 600;
+}
+
+.buyerinfo-data{
+    display: flex;
+    flex-direction: column;
+    gap:2px;
+}
+
+.buyerinfo-title{
+    font-size: xx-large;
+}
+
+.buyerinfo-container{
+    display: flex;
+    flex-direction: row;
+    background-color: #fbc85c;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.buyerinfo-picture{
+    display:flex;
+    margin: 0 auto;
+    margin-right: 0;
+    align-items: center;
+}
+
+.orderproducts-container{
+    max-width: 95%;
+    margin: 0 auto;
+    margin-top:1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-bottom: 1rem;
+}
+
+.product-container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1.22rem;
+    border-radius: .5rem;
+    box-shadow: 0px -10px 20px rgba(0, 0, 0, 0.1),
+    0px 59px 36px rgba(0, 0, 0, 0.01),
+    0px 26px 26px rgba(0, 0, 0, 0.05),
+    0px 7px 15px rgba(0, 0, 0, 0.05),
+    0px 0px 0px rgba(0, 0, 0, 0.01);
+    gap:20px;
+}
+
+.product-picture{
+    padding: .4rem;
+    border: .4rem solid #a68fe8;
+    border-radius: .5rem;
+    background-color: #5f6770;
+}
+
+.product-data{
+    display: flex;
+    flex-direction: column;
+    background-color: #fbc85c;
+    border-radius: 1rem;
+    padding: 1.4rem;
+    width: 60%;
+    font-weight: 600;
+}
+
+.vertical-line{
+    border-left: 2px solid #5f6770;
+    height: 8rem;
+    margin-left: .8rem;
+    margin-right: .8rem;
+    width: fit-content;
+}
+
+.product-title{
+    margin: 0 auto;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+.product-description{
+    font-size: .9rem;
+}
+
+.sellerinfo-button{
+    width: 30%;
+    border: 0;
+    background-color: #a68fe8;
+    border-radius: .2rem;
+    font-weight: bold;
+    color:#2f3337;
+    margin: 0 auto;
+    margin-top:.5rem;
+}
+
+.sellerinfo-button:hover{
+    background-color: #2f3337;
+    color:#a68fe8;
+}
+
+.product-price{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    font-weight: 700;
+    background-color: #fbc85c;
+    border-radius: 1rem;
+    padding: 1.7rem;
+    width: 20%;
+    align-items: center;
+}
+
+.sellerinfo{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    width: 40%;
+}
+
+.sellerinfo-row{
+    color:black;
+    font-weight: 600;
+}
+
+.sellerinfo-data{
+    display: flex;
+    flex-direction: column;
+    gap:2px;
+}
+
+.sellerinfo-container{
+    display: flex;
+    flex-direction: row;
+    background-color: #fbc85c;
+    border-radius: 1rem;
+    padding: 1rem;
+    border: .2rem solid #a68fe8;
+    box-shadow: 0px -10px 20px rgba(0, 0, 0, 0.1),
+    0px 59px 36px rgba(0, 0, 0, 0.01),
+    0px 26px 26px rgba(0, 0, 0, 0.05),
+    0px 7px 15px rgba(0, 0, 0, 0.05),
+    0px 0px 0px rgba(0, 0, 0, 0.01);
+}
+
+.sellerinfo-picture{
+    display:flex;
+    margin: 0 auto;
+    margin-right: 0;
+    align-items: center;
+}
+
+.order-footer{
+    width: 95%;
+    margin:0 auto;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #fbc85c;
+    border-radius: .5rem;
+    padding: 1.5rem;
+    color:#2f3337;
+}
+
+.order-details{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+
+.order-price{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 3.5%;
+    font-size: x-large;
+    font-weight: 500;
+}
